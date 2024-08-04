@@ -1,0 +1,24 @@
+var myFullName;
+console.log("My Full Name is:",myFullName);
+myFullName=" Adhiraj Gadade";
+console.log("My Full Name is:",myFullName);
+myFullName="Adhiraj Dipak Gadade";
+console.log("My Full Name is:",myFullName);
+console.log("===============================================================");
+var myLove = "I love only JS";
+console.log("My Love is:",myLove);
+console.log("===============================================================");
+var fristName= "Adhiraj";
+console.log("frist Name is:", fristName);
+var lastName= "Gadade"
+console.log("last Name is:",lastName);
+var age= 26;
+console.log("Age is:",age);
+var adress =" Wakad Chowk Pune";
+console.log("Adress is:",adress);
+var pinCode= 411021;
+console.log("Pincode is:",pinCode);
+var Gender = "Male";
+console.log("Age is:",age);
+var isMarried= false;
+console.log(" Married Status is:",isMarried);
